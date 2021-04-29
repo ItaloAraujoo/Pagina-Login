@@ -4,7 +4,8 @@
 
 Um sistema simples de login criado para praticar e desenvolver minhas habilidades!
 
-![](https://github.com/ItaloAraujoo/Sistema-Logins/blob/master/SistemaLogin.jpg?raw=true)
+![image](https://user-images.githubusercontent.com/81595439/116490285-5cfe3f80-a86d-11eb-9731-68e01dc966f2.png)
+
 
 ## Linguagens
 - HTML
